@@ -1,7 +1,7 @@
           *********************************
           * myshell----一个简单的shell程序 *  
           *********************************
-Author: 曾宸东
+Author: zengchendong
 Date：2022/03/04
 
 运行所需文件：makefile myshell.c
